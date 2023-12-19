@@ -1,0 +1,1 @@
+Simple recipes site made through the curriculum of The Odin Project
