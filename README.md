@@ -1,1 +1,1 @@
-Simple recipes site made through the curriculum of The Odin Project
+Simple webpage made through the foundations course of Odin Project. In this project, I used simple HTML and good market practices like Git.
