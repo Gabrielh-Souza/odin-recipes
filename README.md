@@ -1,1 +1,1 @@
-Simple webpage made through the foundations course of Odin Project. In this project, I used simple HTML and good market practices like Git.
+Simple webpage made through the foundations course of Odin Project. In this project, I used simple HTML, CSS and good market practices like Git.
